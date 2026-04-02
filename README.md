@@ -1,6 +1,8 @@
 # 💫 About Me:
 Data Science Undergrad || WINNER - Smart India Hackathon 2022 || 
+
 PROJECTS
+
 ER Live Monitor  |  Python · Flask · Ensemble Methods · Statistical Pattern Recognition
 •	Built a real-time Emergency Room dashboard displaying live bed availability, patient count, and doctor/nurse availability, refreshing every 5–10 seconds.
 •	Implemented a 2-stage ensemble pipeline combining statistical pattern recognition with linear trend correction to improve data reliability.
