@@ -1,34 +1,5 @@
 # 💫 About Me:
-Data Science Undergrad || WINNER - Smart India Hackathon 2022 || 
-
-PROJECTS
-
-ER Live Monitor  |  Python · Flask · Ensemble Methods · Statistical Pattern Recognition
-•	Built a real-time Emergency Room dashboard displaying live bed availability, patient count, and doctor/nurse availability, refreshing every 5–10 seconds.
-•	Implemented a 2-stage ensemble pipeline combining statistical pattern recognition with linear trend correction to improve data reliability.
-
-MediCare — Centralised Hospital Management System  |  Python · Blockchain · Google Cloud · Twilio API · Google Maps API · Google OAuth
-•	Developed a unified platform enabling patients and doctors to securely access medical records from any hospital.
-•	Leveraged blockchain to make consultation notes and prescriptions immutable once added, significantly reducing prescription forgery risk.
-•	Integrated Twilio (SMS alerts), Google Maps (hospital locator), and Google OAuth for a seamless, secure user experience.
-
-AskMeeee — Medical Symptom Chatbot  |  Python · NLP · Data Cleaning · Scikit-learn
-•	Curated and cleaned a domain-specific medical dataset to ensure diagnostic accuracy in a symptom-based chatbot.
-•	Used NLP keyword matching to identify symptoms from natural language input (e.g., 'high temp' → fever) and classify diseases by severity: Low, Medium, High.
-•	High-severity cases redirect users to seek professional medical help without prescribing medication, ensuring responsible AI behaviour.
-
-StockPulse — Interactive Stock Analytics Dashboard  |  R · R Shiny · quantmod · tidyquant · ARIMA · ETS
-•	Built an interactive R Shiny dashboard for real-time financial data exploration of 10 major global equities via Yahoo Finance.
-•	Incorporated OHLCV candlestick charts, technical indicators, ARIMA/ETS forecasting, correlation heatmaps, and volatility analysis.
-
-Satellite Collision Avoidance System  |  Python · Jupyter Notebook · SVM · K-Means · Linear Regression
-•	Applied the OSEMN data science framework to build a collision prediction system using real-time orbital data.
-•	Calculated approach angle and debris size to estimate time-to-impact; K-Means clustering identified low-congestion safe zones for satellite relocation.
-
-RearCam — Smart Rear-View Camera System  |  Python · Neural Networks · Google Maps API · Computer Vision
-•	Designed a hardware-software prototype mounting dual cameras on rear-view mirrors, automatically displaying the relevant side feed on a dashboard when the indicator is triggered.
-•	Used neural networks for real-time video processing and Google Maps API for spatial context.
-
+Undergrad Student || Data Science || AI/ML || WINNER - Smart India Hackathon 2022 || 
 
 
 ## 🌐 Socials:
